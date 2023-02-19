@@ -1,5 +1,3 @@
-
-// step 1
 let theButtons = document.querySelectorAll("#buttonHolder img"),
 	theHeading = document.querySelector("#headLine h1"),
 	puzzleBoard = document.querySelector(".puzzle-board"),
